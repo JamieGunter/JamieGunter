@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center"> Hi there 👋, I'm Jamie <br></h1>
 
-<!--
-**JamieGunter/JamieGunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> A Computer Science 3rd Year Student at Lancaster University 🎓, history in White Hat Penetration Testing ⚪ and Website Development 🕸, currently focusing in software development 👨‍💻!<br><br></h2>
 
-Here are some ideas to get you started:
+<h3 align="center"> 
+🎓 I’m currently researching the impact of haptics in game-based tasks.<br>
+🔭 I'm currently working on webhook applications and small hobby software projects.<br>
+⚡ Fun fact: All currencies have a repeating circular pattern (called Eurion constellations) that all printers recognise to prevent counterfeiting! 
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="center">Connect with me on Linked In: https://www.linkedin.com/in/jamie-s-gunter/</h4>
+
+<h4 align="center"> Have a good day :) </h4>
